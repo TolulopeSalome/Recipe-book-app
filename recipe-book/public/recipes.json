@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Bolognese",
+    "ingredients": "Spaghetti, minced meat, tomato sauce, onions, garlic, olive oil, salt, pepper",
+    "instructions": "1. Boil the spaghetti until al dente.\n2. In a pan, heat olive oil and sauté onions and garlic.\n3. Add minced meat and cook until browned.\n4. Pour in tomato sauce and simmer for 15 minutes.\n5. Add salt and pepper to taste.\n6. Serve the sauce over the spaghetti."
+  },
+  {
+    "id": 2,
+    "title": "Jollof Rice",
+    "ingredients": "Long-grain rice, tomatoes, bell peppers, onions, oil, seasoning cubes, salt, thyme",
+    "instructions": "1. Blend tomatoes, peppers, and onions into a smooth paste.\n2. Heat oil in a pot and fry the paste until the oil separates.\n3. Add seasoning, salt, and thyme.\n4. Add washed rice and enough water to cook.\n5. Cover and cook on low heat until rice is done.\n6. Stir occasionally to prevent burning."
+  },
+  {
+    "id": 3,
+    "title": "Fried Eggs",
+    "ingredients": "Eggs, salt, pepper, onions, vegetable oil",
+    "instructions": "1. Crack the eggs into a bowl and whisk.\n2. Add salt, pepper, and chopped onions.\n3. Heat oil in a pan.\n4. Pour in the eggs and fry until done.\n5. Flip if needed and serve hot."
+  },
+  {
+    "id": 4,
+    "title": "Simple Vegetable Salad",
+    "ingredients": "Lettuce, cucumber, tomatoes, carrots, salad cream",
+    "instructions": "1. Wash and chop all vegetables.\n2. Combine them in a large bowl.\n3. Add a small amount of salad cream.\n4. Toss and serve immediately."
+  },
+  {
+    "id": 5,
+    "title": "Egusi Soup",
+    "ingredients": "Egusi (melon seeds), palm oil, spinach, meat, stock fish, seasoning, onions, pepper",
+    "instructions": "1. Blend egusi with onions and set aside.\n2. Heat palm oil in a pot and add the egusi paste.\n3. Stir-fry for a few minutes.\n4. Add stock, meat, fish, and spices.\n5. Simmer until thickened.\n6. Add spinach and cook for 5 more minutes.\n7. Serve with pounded yam or fufu."
+  }
+]
