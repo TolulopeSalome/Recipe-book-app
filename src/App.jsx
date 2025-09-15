@@ -4,7 +4,7 @@ import RecipeDetails from "./pages/RecipeDetails";
 import AddRecipe from "./pages/AddRecipe";
 import Navbar from "./components/Navbar";
 import Favourites from "./pages/Favourites";  
-import About from "./pages/About";
+
 
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/recipe/:id" element={<RecipeDetails />} />
         <Route path="/add" element={<AddRecipe />} />
-        <Route path="/about" element={<About name = "About" />}/>
+        
         <Route path="/favourites" element={<Favourites/>} />
         
       </Routes>
